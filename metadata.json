@@ -1,0 +1,5 @@
+{
+  "name": "לומדים NotebookLM",
+  "description": "אפליקציה חינוכית למורים ותלמידים המדגימה את היכולות של NotebookLM באמצעות ממשק אינטראקטיבי המופעל על ידי Gemini.",
+  "requestFramePermissions": []
+}
